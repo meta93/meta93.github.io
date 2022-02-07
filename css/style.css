@@ -67,12 +67,12 @@ h3 {
     font-size: var(--fs-h3)
 }
 
-.section__tiltle {
+.section__title {
     margin-bottom: .25em;
 }
 
 
-.section__subtitle--intro {
+.section__subtitle_intro {
     font-weight: var(--fw-reg);
 }
 
@@ -81,7 +81,7 @@ h3 {
     font-size: var(--fs-h3);
 }
 
-.section__subtitle--intro,
+section__subtitle_intro,
 .section__subtitle--about {
     background: var(--clr-accent);
     padding: 25em 1em;

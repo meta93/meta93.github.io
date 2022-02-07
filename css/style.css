@@ -89,7 +89,7 @@ h3 {
     margin-bottom: 1em;
 }
 
-.section__subtitle--intro strong {
+.section__subtitle_intro strong {
     display: block;
 }
 
@@ -117,12 +117,12 @@ section {
         grid-template-columns: min-content max-content;
     }
 
-    .intro__img {
+    .intro_img {
         grid-area: img;
         min-width: 250px;
     }
 
-    .section__subtitle--intro {
+    .section__subtitle_intro {
         align-self: start;
         grid-column: -1 / 1;
         grid-row: 2;
